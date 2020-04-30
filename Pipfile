@@ -11,6 +11,7 @@ dash-render = "*"
 dash-html-components = "*"
 dash-core-components = "*"
 plotly = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.8"
